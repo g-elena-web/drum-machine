@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/drum-machine/static/css/main.e2010ed8.css",
+    "main.js": "/drum-machine/static/js/main.75393fec.js",
+    "static/media/ride-cymbal.wav": "/drum-machine/static/media/ride-cymbal.e09d0189be9d59961072.wav",
+    "static/media/crash-cymbal.wav": "/drum-machine/static/media/crash-cymbal.e26f2cfa6a0c3c176b03.wav",
+    "static/media/bass-drum.wav": "/drum-machine/static/media/bass-drum.f61f02d1fe58dc3ff64d.wav",
+    "static/media/open-hi-hat.wav": "/drum-machine/static/media/open-hi-hat.197e1ebb7121beed2f83.wav",
+    "static/media/snare-2.wav": "/drum-machine/static/media/snare-2.f5b2c19ab538fd6fa640.wav",
+    "static/media/floor-tom.wav": "/drum-machine/static/media/floor-tom.002411dd65298f8af62f.wav",
+    "static/media/power-snare.wav": "/drum-machine/static/media/power-snare.8ad303517794b52fc1f3.wav",
+    "static/media/clap.wav": "/drum-machine/static/media/clap.581d6ad58654af0a654f.wav",
+    "static/media/snare-1.wav": "/drum-machine/static/media/snare-1.e94cb08758a6b3b1dca8.wav",
+    "index.html": "/drum-machine/index.html",
+    "main.e2010ed8.css.map": "/drum-machine/static/css/main.e2010ed8.css.map",
+    "main.75393fec.js.map": "/drum-machine/static/js/main.75393fec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2010ed8.css",
+    "static/js/main.75393fec.js"
+  ]
+}
