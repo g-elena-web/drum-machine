@@ -1,0 +1,29 @@
+.keys {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 1.5rem;
+    margin: 2rem 0;
+}
+
+.drum-pad {
+    font-size: inherit;
+    font-family: inherit;
+    background-color: var(--cream);
+    color: var(--blue);
+    padding: 2.5rem 3rem;
+    border: 3px solid var(--blue);
+    border-radius: 2rem;
+    box-shadow: 0px 7px var(--blue);
+    transition: 0.2s;
+  } 
+  
+.drum-pad:focus {
+    outline: none;
+}
+
+.active {
+    background-color: var(--red);
+    color: var(--cream);
+    box-shadow: none;
+    transform: translateY(7px);
+}

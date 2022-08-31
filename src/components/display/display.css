@@ -1,0 +1,8 @@
+.display {
+    background-color: var(--mint);
+    color: var(--blue);
+    border-radius: 2rem;
+    border: 3px solid var(--blue);
+    text-align: center;
+    padding: 2.5rem;
+}

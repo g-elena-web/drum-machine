@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap');
+
+.app {
+    font-size: 3rem;
+    font-family: 'Raleway', sans-serif;
+    background-color: var(--cream);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.drum-machine {
+    margin: 2rem;
+    background-color: var(--beige);
+    max-width: 90%;
+    height: auto;
+    padding: 3rem;
+    border-radius: 2rem;
+    border: 3px solid var(--blue);
+}
+
+.credit {
+    font-size: 1.3rem;
+    text-align: center;
+    color: var(--mint);
+    margin: 0;
+}
+
+.credit a {
+    color: var(--mint);
+}
