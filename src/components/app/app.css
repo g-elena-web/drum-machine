@@ -31,3 +31,22 @@
 .credit a {
     color: var(--mint);
 }
+
+@media (max-width: 500px) {
+
+    .drum-machine {
+        padding: 1.5rem;
+    }
+}
+
+@media (max-width: 350px) {
+
+    .app {
+        font-size: 2.2rem;
+    }
+
+    .drum-machine {
+        padding: 1rem;
+    }
+
+}

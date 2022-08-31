@@ -27,3 +27,24 @@
     box-shadow: none;
     transform: translateY(7px);
 }
+
+@media (max-width: 500px) {
+    .keys {
+        gap: 1.5rem 1rem;
+    }
+
+    .drum-pad {
+        padding: 2rem 2.5rem;
+    }
+}
+
+@media (max-width: 350px) {
+
+    .keys {
+        gap: 1.5rem 0.5rem;
+    }
+    .drum-pad {
+        padding: 1.5rem 2rem;
+    }
+
+}
