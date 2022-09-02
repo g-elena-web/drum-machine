@@ -20,4 +20,4 @@ The volume range input is created with the help of [range.css tool](http://danie
 
 # Demo
 
-View the Markdown Previewer app [here](https://g-elena-web.github.io/drum-machine/).
+View the Drum Machine app [here](https://g-elena-web.github.io/drum-machine/).
